@@ -37,10 +37,11 @@ Membuat objek Clothing dengan ukuran menggunakan enum Size.
 Mencetak informasi produk yang lebih lengkap, termasuk kategori, harga diskon, dan spesifikasi elektronik.
 
 
-NAMA ANGGOTA KELOMPOK :
+## Anggota Kelompok
+- [Rachmat Tri Aji (51424093)]
+- [Rafly Nur Hidayat (51424130)]
+- [Ananda Ramadhan (50424123)]
+- [Muhammad Eka Suryawan ()]
+- [Hilmi Samdya ()]
 
-*Rachmat Tri Aji (51424093)
-*Rafly Nur Hidayat (51424130)
-*Ananda Ramadhan (50424123)
-*Muhammad Eka Suryawan ()
-*Hilmi Samdya ()
+
