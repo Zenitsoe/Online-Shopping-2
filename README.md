@@ -39,8 +39,8 @@ Mencetak informasi produk yang lebih lengkap, termasuk kategori, harga diskon, d
 
 NAMA ANGGOTA KELOMPOK :
 
-Rachmat Tri Aji (51424093)
-Rafly Nur Hidayat (51424130)
-Ananda Ramadhan (50424123)
-Muhammad Eka Suryawan ()
-Hilmi Samdya ()
+*Rachmat Tri Aji (51424093)
+*Rafly Nur Hidayat (51424130)
+*Ananda Ramadhan (50424123)
+*Muhammad Eka Suryawan ()
+*Hilmi Samdya ()
