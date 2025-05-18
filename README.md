@@ -1,5 +1,5 @@
 #Update projek pertama ONLINE SHOPPING
-Mengupdate beberapa Sistem seperti :
+Mengupdate beberapa Sistem seperti:
 
 Membuat Interface Discountable dengan metode getDiscountedPrice() untuk menghitung harga diskon, Mendefinisikan interface Discountable dengan metode getDiscountedPrice() untuk menghitung harga diskon
 
