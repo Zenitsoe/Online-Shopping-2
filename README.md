@@ -78,15 +78,27 @@ Proyek ini telah diperbarui dengan beberapa fitur baru untuk meningkatkan manaje
 
 ## Output dari Projek Online Shopping
 
+1.Menunjukkan form **Product Managemen**, yang digunakan untuk menambahkan product baru
+
 ![image](https://github.com/user-attachments/assets/8835ed76-74c3-43a6-bbeb-2f593afdd5eb)
+
+2.Menunjukkan form **Search**, yang digunakan untuk mencari sebuah product menggunakan ProductID dan juga menampilkan Discount 
 
 ![image](https://github.com/user-attachments/assets/c4de7f66-b63e-44bc-9bb7-0f45815ed530)
 
+3.Menunjukkan form **Transaction**, yang digunakkan untuk menambahkan transaksi dan juga dapat melihat history pembelian
+
 ![image](https://github.com/user-attachments/assets/aafb363a-8e6b-45ba-af30-15d894224cb6)
+
+4.Ketika product berhasil ditambahkan
 
 ![image](https://github.com/user-attachments/assets/78f4e5a8-4532-4d15-ab40-4b1265c5f299)
 
+5.Ketika berhasil melakukan transaksi dan bisa dilihat di form **Transaction History**
+
 ![image](https://github.com/user-attachments/assets/dc3042a9-de2d-47d6-a456-66d0a1eb74f9)
+
+6.Ketika mencari sebuah product, tetapi tidak ditemukan atau product tidak ada
 
 ![image](https://github.com/user-attachments/assets/75c9d060-9d1a-4326-aacb-80b05faad88f)
 
